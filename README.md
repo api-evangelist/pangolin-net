@@ -64,5 +64,30 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pangolin (Fossorial) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://pangolin.net/
+Pangolin (Fossorial) provides an open‑source Secure Access Service Edge (SASE) platform delivering secure connectivity for applications, infrastructure, and AI workloads. Built on a commitment to open source and community, it offers zero‑trust access, self‑hosted deployment, AI gateway, identity‑aware proxy, and modern security controls, aiming to replace traditional VPNs and reverse proxies.
+
+**Areas:** Open Source · Networking · Security · SASE · AI Gateway · Zero Trust
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pangolin.net/)
+- [Documentation](https://docs.pangolin.net/)
+- [Getting started](https://pangolin.net/about)
+- [API reference](https://docs.pangolin.net/manage/integration-api)
+- [Pricing](https://pangolin.net/pricing)
+- [Support](https://pangolin.net/contact)
+- [Changelog](https://pangolin.net/news/tags/changelog)
+- [Blog](https://pangolin.net/news)
+- [Security](https://pangolin.net/news/tags/security)
+- [Compliance](https://trust.pangolin.net/)
+- [Terms of service](https://pangolin.net/tos)
+- [Privacy policy](https://pangolin.net/privacy)
+- [GitHub](https://github.com/fosrl/pangolin)
+
+**APIs profiled:** 36
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pangolin-net/](https://apis.io/providers/pangolin-net/).
